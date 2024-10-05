@@ -1,10 +1,16 @@
 # apk-editor-pro
 ### version 3.0 pro
+
 <p align="center">
-    <img src="https://github.com/issamiso/apk-editor-pro/raw/main/icon.png" width="400">
-    <br>
-    APK Editor Pro
+  <img src="https://github.com/user-attachments/assets/f8f74673-5ddb-4b15-9c40-efdf3ff0bc93" alt="adguard_logo_icon_167905" width="200">
 </p>
+
+<p align="center">
+  <span style="font-size: 30px; font-weight: bold;">AdGuard DNS</span>
+</p>
+
+
+
 APK Editor Pro v3.0 es una herramienta diseñada para la edición de archivos APK de aplicaciones Android. Esta versión incluye mejoras en la funcionalidad y la interfaz, facilitando la personalización de aplicaciones.
 
 ## Tabla de Contenidos
