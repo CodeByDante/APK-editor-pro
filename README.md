@@ -1,8 +1,10 @@
 # apk-editor-pro
 ### version 3.0 pro
-<img src="https://github.com/issamiso/apk-editor-pro/raw/main/icon.png">
-# APK Editor Pro v3.0
-
+<p align="center">
+    <img src="https://github.com/issamiso/apk-editor-pro/raw/main/icon.png" width="400">
+    <br>
+    APK Editor Pro
+</p>
 APK Editor Pro v3.0 es una herramienta diseñada para la edición de archivos APK de aplicaciones Android. Esta versión incluye mejoras en la funcionalidad y la interfaz, facilitando la personalización de aplicaciones.
 
 ## Tabla de Contenidos
