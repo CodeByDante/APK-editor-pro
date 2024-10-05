@@ -1,28 +1,15 @@
 # apk-editor-pro
-### version 3.0 pro
+### version 3.0 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8f74673-5ddb-4b15-9c40-efdf3ff0bc93" alt="adguard_logo_icon_167905" width="200">
+  <img src="https://github.com/user-attachments/assets/27cb349c-661f-4e44-be90-75fc5b75bc7f" alt="apk_editor_pro" width="200">
 </p>
 
 <p align="center">
-  <span style="font-size: 30px; font-weight: bold;">AdGuard DNS</span>
+  <span style="font-size: 30px; font-weight: bold;">APK Editor Pro</span>
 </p>
-
-
 
 APK Editor Pro v3.0 es una herramienta diseñada para la edición de archivos APK de aplicaciones Android. Esta versión incluye mejoras en la funcionalidad y la interfaz, facilitando la personalización de aplicaciones.
-
-## Tabla de Contenidos
-
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Advertencias](#advertencias)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Características
 
@@ -57,16 +44,3 @@ APK Editor Pro v3.0 es una herramienta diseñada para la edición de archivos AP
 
 - **Uso responsable**: La modificación de aplicaciones puede infringir sus términos de servicio.
 - **Copia de seguridad**: Se recomienda realizar una copia de seguridad de las aplicaciones originales antes de cualquier modificación.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Para colaborar, envíe un pull request o abra un issue en el repositorio.
-
-## Licencia
-
-Este proyecto se encuentra bajo la **Licencia MIT**. Para más información, consulte el archivo `LICENSE`.
-
-## Contacto
-
-Para consultas, puede contactar a [tu_correo@ejemplo.com].
-
