@@ -9,6 +9,12 @@
   <span style="font-size: 30px; font-weight: bold;">APK Editor Pro</span>
 </p>
 
+<p align="center">
+  <a href="https://github.com/CodeByDante/APK-editor-pro/releases/download/Editor/APK.editor.pro.apk">
+    <img src="https://img.shields.io/badge/Descargar%20APK%20Editor%20Pro-001f3f?style=for-the-badge&logo=android&logoColor=white&labelColor=001f3f&logoWidth=30&borderRadius=20" alt="Descargar APK Editor Pro"/>
+  </a>
+</p>
+
 APK Editor Pro v3.0 es una herramienta diseñada para la edición de archivos APK de aplicaciones Android. Esta versión incluye mejoras en la funcionalidad y la interfaz, facilitando la personalización de aplicaciones.
 
 ## Características
